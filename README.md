@@ -1,5 +1,6 @@
 # CAG
 Cache-Augmented Generation
+![1736075991641](https://github.com/user-attachments/assets/8b0628b7-4734-4eca-ae5f-ab5c2e73cfe6)
 
 
 Cache-Augmented Generation (CAG) emerges as a game-changing approach by eliminating real-time retrieval, leveraging preloaded knowledge, and achieving superior results.
